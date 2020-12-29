@@ -1,0 +1,8 @@
+nav ul li:hover {
+	background-color: lightgrey !important; /** Whole site is dark mode */
+}
+iframe{
+	border-style: none;
+	margin: 10px auto;
+	display: block;
+}
