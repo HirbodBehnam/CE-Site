@@ -1,8 +1,20 @@
 nav ul li:hover {
 	background-color: lightgrey !important; /** Whole site is dark mode */
 }
-iframe{
+
+iframe {
 	border-style: none;
 	margin: 10px auto;
 	display: block;
+}
+
+.center-content-div {
+	overflow: auto; /** fix small screens */
+	margin-top: 5px;
+	text-align: center;
+}
+
+.default-list {
+	list-style-type: initial !important;
+	margin-left: 10px;
 }
