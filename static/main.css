@@ -12,9 +12,19 @@ iframe {
 	overflow: auto; /** fix small screens */
 	margin-top: 5px;
 	text-align: center;
+	padding-bottom: 5px;
 }
 
 .default-list {
 	list-style-type: initial !important;
 	margin-left: 10px;
+}
+
+.material-icons {
+	margin-right: 5px;
+	vertical-align: middle;
+}
+
+table tr td p {
+	text-align: justify;
 }
