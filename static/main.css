@@ -10,7 +10,7 @@ iframe {
 
 .center-content-div {
 	overflow: auto; /** fix small screens */
-	margin-top: 5px;
+	margin-top: 10px;
 	text-align: center;
 	padding-bottom: 5px;
 }
