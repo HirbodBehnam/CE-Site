@@ -15,9 +15,14 @@ iframe {
 	padding-bottom: 5px;
 }
 
-.default-list {
+.default-list, .default-list li {
 	list-style-type: initial !important;
 	margin-left: 10px;
+}
+
+.default-list li a {
+	text-decoration: underline;
+	color: white;
 }
 
 .material-icons {
